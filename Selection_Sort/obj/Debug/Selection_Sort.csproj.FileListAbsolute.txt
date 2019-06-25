@@ -1,0 +1,6 @@
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Selection_Sort\bin\Debug\Selection_Sort.exe.config
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Selection_Sort\bin\Debug\Selection_Sort.exe
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Selection_Sort\bin\Debug\Selection_Sort.pdb
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Selection_Sort\obj\Debug\Selection_Sort.csprojResolveAssemblyReference.cache
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Selection_Sort\obj\Debug\Selection_Sort.exe
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Selection_Sort\obj\Debug\Selection_Sort.pdb

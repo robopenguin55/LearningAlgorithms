@@ -1,0 +1,6 @@
+c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_search\bin\Debug\Binary_search.exe.config
+c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_search\bin\Debug\Binary_search.exe
+c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_search\bin\Debug\Binary_search.pdb
+c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_search\obj\Debug\Binary_search.csprojResolveAssemblyReference.cache
+c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_search\obj\Debug\Binary_search.exe
+c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_search\obj\Debug\Binary_search.pdb

@@ -1,0 +1,6 @@
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Quick_Sort\bin\Debug\Quick_Sort.exe.config
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Quick_Sort\bin\Debug\Quick_Sort.exe
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Quick_Sort\bin\Debug\Quick_Sort.pdb
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Quick_Sort\obj\Debug\Quick_Sort.csprojResolveAssemblyReference.cache
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Quick_Sort\obj\Debug\Quick_Sort.exe
+C:\Users\jbowden\Documents\Visual Studio 2015\Projects\Binary_search\Quick_Sort\obj\Debug\Quick_Sort.pdb
