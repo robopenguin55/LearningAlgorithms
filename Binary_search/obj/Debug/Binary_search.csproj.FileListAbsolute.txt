@@ -4,3 +4,10 @@ c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_sear
 c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_search\obj\Debug\Binary_search.csprojResolveAssemblyReference.cache
 c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_search\obj\Debug\Binary_search.exe
 c:\users\jbowden\documents\visual studio 2015\Projects\Binary_search\Binary_search\obj\Debug\Binary_search.pdb
+C:\Users\jbowden\Documents\GitHub\LearningAlgorithms\Binary_search\bin\Debug\Binary_search.exe.config
+C:\Users\jbowden\Documents\GitHub\LearningAlgorithms\Binary_search\bin\Debug\Binary_search.exe
+C:\Users\jbowden\Documents\GitHub\LearningAlgorithms\Binary_search\bin\Debug\Binary_search.pdb
+C:\Users\jbowden\Documents\GitHub\LearningAlgorithms\Binary_search\obj\Debug\Binary_search.csprojAssemblyReference.cache
+C:\Users\jbowden\Documents\GitHub\LearningAlgorithms\Binary_search\obj\Debug\Binary_search.csproj.CoreCompileInputs.cache
+C:\Users\jbowden\Documents\GitHub\LearningAlgorithms\Binary_search\obj\Debug\Binary_search.exe
+C:\Users\jbowden\Documents\GitHub\LearningAlgorithms\Binary_search\obj\Debug\Binary_search.pdb
